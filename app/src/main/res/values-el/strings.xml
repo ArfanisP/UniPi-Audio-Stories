@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unipi Audio Stories</string>
+    <string name="title_stories">Ιστορίες</string>
+    <string name="title_stats">Τα Στατιστικά σου</string>
+    <string name="btn_play">Αναπαραγωγή</string>
+    <string name="btn_stop">Διακοπή</string>
+    <string name="btn_stats">Στατιστικά</string>
+    <string name="story_image">Εικόνα ιστορίας</string>
+    <string name="loading">Φόρτωση…</string>
+    <string name="error_load">Αποτυχία φόρτωσης.</string>
+</resources>

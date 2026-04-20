@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unipi Audio Stories</string>
+    <string name="title_stories">Historias</string>
+    <string name="title_stats">Tus estadísticas</string>
+    <string name="btn_play">Reproducir</string>
+    <string name="btn_stop">Detener</string>
+    <string name="btn_stats">Estadísticas</string>
+    <string name="story_image">Imagen de la historia</string>
+    <string name="loading">Cargando…</string>
+    <string name="error_load">Error al cargar.</string>
+</resources>
